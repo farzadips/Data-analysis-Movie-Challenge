@@ -25,7 +25,7 @@ To succeed, you must implement a Python package called `challenge`, which expose
 1. [Fork this repo](https://gitlab.com/mediascale-benelux/movies-challenge).
 2. In your forked challenge repo:
    1. Go to `Settings > General > Visibility [...]` and set the project visibility to `Private`.
-   2. Go to `Settings > Members > Invite Member` and add `mediascale` as a `Reporter`, so we can follow along with your progress.
+   2. Go to `Project Information > Members > Invite Member` and add `mediascale` as a `Reporter`, so we can follow along with your progress.
 
 
 ## Good luck!
